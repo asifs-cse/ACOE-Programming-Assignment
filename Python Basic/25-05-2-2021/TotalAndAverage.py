@@ -3,4 +3,4 @@ b = float(input("Enter b value: "))
 c = float(input("Enter c value: "))
 
 print(f"Total Value: {a+b+c}")
-print(f"Average Value: {a+b+c/3}")
+print(f"Average Value: {(a+b+c)/3}")
