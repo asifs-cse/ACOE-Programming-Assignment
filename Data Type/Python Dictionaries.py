@@ -1,6 +1,6 @@
 thisdict = {
-  "naem": "Asif",
-  "brach": "Computer",
+  "name": "Asif",
+  "branch": "Computer",
   "roll": "20MH1A0504",
   "birth": 1999
 }
@@ -13,8 +13,8 @@ print(len(thisdict))
 print(type(thisdict))
 
 thisdict = {
-  "naem": "Asif",
-  "brach": "Computer",
+  "name": "Asif",
+  "branch": "Computer",
   "roll": "20MH1A0504",
   "birth": 1999
 }
